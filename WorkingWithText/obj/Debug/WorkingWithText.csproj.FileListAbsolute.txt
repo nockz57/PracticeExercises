@@ -5,3 +5,10 @@ C:\Users\mphet\source\repos\PracticeExercises\WorkingWithText\obj\Debug\WorkingW
 C:\Users\mphet\source\repos\PracticeExercises\WorkingWithText\obj\Debug\WorkingWithText.csproj.CoreCompileInputs.cache
 C:\Users\mphet\source\repos\PracticeExercises\WorkingWithText\obj\Debug\WorkingWithText.exe
 C:\Users\mphet\source\repos\PracticeExercises\WorkingWithText\obj\Debug\WorkingWithText.pdb
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithText\bin\Debug\WorkingWithText.exe.config
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithText\bin\Debug\WorkingWithText.exe
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithText\bin\Debug\WorkingWithText.pdb
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithText\obj\Debug\WorkingWithText.csprojAssemblyReference.cache
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithText\obj\Debug\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithText\obj\Debug\WorkingWithText.exe
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithText\obj\Debug\WorkingWithText.pdb

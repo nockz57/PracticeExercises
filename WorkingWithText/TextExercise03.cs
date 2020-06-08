@@ -20,13 +20,28 @@ namespace WorkingWithText
             var index = timeValue.Split(':');
             var results = "Invalid Time";
 
-            if (Convert.ToInt32(index[0]) >= 0 && Convert.ToInt32(index[0]) <= 23)
+            //Ensure user actually provide values and in the right format
+            if (!string.IsNullOrWhiteSpace(timeValue) && index.Length > 1)
             {
-                if (Convert.ToInt32(index[1]) >= 0 && Convert.ToInt32(index[1]) <= 59)
+                //Convert string numbers to integer
+                bool hoursSuccess = int.TryParse(index[0], out int hours);
+                bool minutesSuccess = int.TryParse(index[1], out int minutes);                
+
+                //if user entered valid numbers proceed
+                if (minutesSuccess && hoursSuccess)
                 {
-                    results = "Ok";
-                    return results;
-                }                
+                    //if user entered valid hours between 0 and 24, proceed
+                    if (hours >= 0 && hours < 24)
+                    {
+                        //If user entered valid minutes between 0 and 60, proceed
+                        if (minutes >= 0 && minutes <= 59)
+                        {
+                            //user has provided a valid time, so it's ok.
+                            results = "Ok";
+                            return results;
+                        }
+                    }  
+                }
             }
 
             return results;

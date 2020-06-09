@@ -20,9 +20,14 @@ namespace WorkingWithText
             //Console.WriteLine(TextExercise02.Duplicate(numbers));
 
             //Exercise 03
-            Console.WriteLine("Please enter a time value in the 24-hour time format (e.g. 19:00)");
-            string timeValue = Console.ReadLine();
-            Console.WriteLine(TextExercise03.TimeValue(timeValue));
+            //Console.WriteLine("Please enter a time value in the 24-hour time format (e.g. 19:00)");
+            //string timeValue = Console.ReadLine();
+            //Console.WriteLine(TextExercise03.TimeValue(timeValue));
+
+            //Exercise 04
+            Console.WriteLine("Enter few words separated by a space");
+            string words = Console.ReadLine();
+            Console.WriteLine(TextExercise04.PascalCase(words));
 
 
         }

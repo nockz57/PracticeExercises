@@ -49,6 +49,7 @@
     <Compile Include="TextExercise02.cs" />
     <Compile Include="TextExercise03.cs" />
     <Compile Include="TextExercise04.cs" />
+    <Compile Include="TextExercise05.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

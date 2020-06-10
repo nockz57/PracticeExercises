@@ -25,9 +25,14 @@ namespace WorkingWithText
             //Console.WriteLine(TextExercise03.TimeValue(timeValue));
 
             //Exercise 04
-            Console.WriteLine("Enter few words separated by a space");
+            //Console.WriteLine("Enter few words separated by a space");
+            //string words = Console.ReadLine();
+            //Console.WriteLine(TextExercise04.PascalCase(words));
+
+            //Exercise 05
+            Console.WriteLine("Enter any English word");
             string words = Console.ReadLine();
-            Console.WriteLine(TextExercise04.PascalCase(words));
+            Console.WriteLine(TextExercise05.Vowels(words));
 
 
         }

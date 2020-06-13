@@ -1,0 +1,7 @@
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe.config
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithFiles\bin\Debug\WorkingWithFiles.pdb
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithFiles\obj\Debug\WorkingWithFiles.csprojAssemblyReference.cache
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithFiles\obj\Debug\WorkingWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithFiles\obj\Debug\WorkingWithFiles.exe
+C:\Users\mphet\source\home\PracticeExercises\WorkingWithFiles\obj\Debug\WorkingWithFiles.pdb
